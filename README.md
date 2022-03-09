@@ -17,15 +17,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [direakanbi](https://github.com/direakanbi)
+- Twitter: [@DireAkanbi](https://twitter.com/DireAkanbi)
+- LinkedIn: [Dire Akanbi](https://linkedin.com/in/DireAkanbi)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Afiz Savage](https://github.com/afizsavage)
+- Twitter: [@AfizSavage](https://twitter.com/afizsavage)
+- LinkedIn: [Afiz](https://linkedin.com/in/afiz)
 
 ## 🤝 Contributing
 
